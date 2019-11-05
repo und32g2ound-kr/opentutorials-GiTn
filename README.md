@@ -1,6 +1,6 @@
 생활코딩 GiTn 수업 정리.
 
-1. GIT1
+1. GIT1 (Done)
 2. GIT CLI 버전관리
 3. GIT CLI Backup 
 4. GIT CLI 협업
